@@ -23,7 +23,7 @@ Split the nota räknar ut hur mycket varje vän ska betala på exempelvis en res
 ## Övning 6 - Level Up
 I denna övning så ska du skapa ett spel baserat på ett ordpussel skapat av Lewis Carroll.
 
-### Vad
+### Vad?
 
 Lewis Carroll är förmodligen mest känd som författaren bakom Alice i underlandet men han var även matematiker och hade en förkärlek för ordlekar, logik och fantasi. Läser du Alice i underlandet speciellt på engelska går det att se att boken är fylld av just detta. Nedan är ett exempel:
 
@@ -58,7 +58,7 @@ I detta exempel så ska vi få **FOUR** att bli **FIVE**. Observera att själva 
 * FIVE (Slutord)
 
 
-#### Hur
+#### Hur?
 
 Börja med att testa pusslet med papper och penna gör ett pussel så du förstår hur det fungerar.
 Skriva varje nytt ord under det förgående ordet som jag har gjort ovan och håll dig till reglerna.
